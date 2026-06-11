@@ -17,7 +17,6 @@ const SUBJECTS = [
   { id: 'os', label: 'OS', icon: Cpu, color: '#10B981', bg: '#ECFDF5', progress: 71, questions: 89 },
   { id: 'cn', label: 'CN', icon: Network, color: '#F59E0B', bg: '#FFFBEB', progress: 43, questions: 56 },
   { id: 'sql', label: 'SQL', icon: Table2, color: '#EF4444', bg: '#FEF2F2', progress: 76, questions: 38 },
-  { id: 'projects', label: 'Projects', icon: FolderOpen, color: '#EC4899', bg: '#FDF2F8', progress: 30, questions: 22 },
   { id: 'aptitude', label: 'Aptitude', icon: Brain, color: '#A78BFA', bg: '#F5F3FF', progress: 60, questions: 72 },
   { id: 'hr', label: 'HR Prep', icon: Users, color: '#14B8A6', bg: '#F0FDFA', progress: 45, questions: 33 },
 ]

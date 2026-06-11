@@ -75,16 +75,6 @@ const SUBJECT_DATA: Record<string, {
       { name: 'Stored Procedures', easy: 8, medium: 12, hard: 10, solved: 5, total: 30 },
     ],
   },
-  projects: {
-    name: 'Projects Preparation', icon: '🚀', color: '#EC4899', bg: '#FDF2F8',
-    description: 'Showcase your projects effectively in technical interviews',
-    topics: [
-      { name: 'Project Ideas', easy: 10, medium: 8, hard: 4, solved: 5, total: 22 },
-      { name: 'Project Interview Questions', easy: 15, medium: 20, hard: 12, solved: 8, total: 47 },
-      { name: 'Presentation Tips', easy: 12, medium: 8, hard: 4, solved: 10, total: 24 },
-      { name: 'Documentation Guide', easy: 10, medium: 8, hard: 4, solved: 6, total: 22 },
-    ],
-  },
   aptitude: {
     name: 'Aptitude', icon: '🧠', color: '#8B5CF6', bg: '#F5F3FF',
     description: 'Sharpen quantitative, logical, and verbal skills for placement tests',
